@@ -14,7 +14,7 @@ prompt = '''blog marketing storyteller!, #keyword, #deliver the title, write 3 s
 Condition: Regarding the #keyword topic,
 Quoting celebrities or books, there are no naturally duplicated documents like humans, they are reliable, sentences are easy and readable!
 
-
+100% 사람과 같이!
 Write by referring to 4 conditions (commands, conditions, yes, format) !!
 Correct in Korean!!
 천천히 답변! 결과값만 보여줘!
