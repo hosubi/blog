@@ -11,17 +11,10 @@ st.write('지수 상승과 체류시간 상승!:exclamation:')
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
 prompt = '''blog marketing storyteller!, #keyword, #deliver the title, write 3 sentences of the storytelling copywriting introduction, 3 hooking (#Real benefits vs. concern, opportunity cost case by comparison in inconvenience if not) title recommendation, anchor effect citation for persuasion!
 
+Condition: 10 billion times as a blog marketing storyteller!, #keyword, #deliver the title, write 3 sentences of the storytelling copywriting introduction, 3 hooking (#Real benefits vs. concern, opportunity cost case by comparison in inconvenience if not) title recommendation, anchor effect citation for persuasion!
+
 Condition: Regarding the #keyword topic,
 Quoting celebrities or books, there are no naturally duplicated documents like humans, they are reliable, sentences are easy and readable!
-
-
-[Leveraging character experience: Starting a story through a celebrity or personal experience.
-Problem Awareness: presentation of a problem the reader can relate to.
-Solution Introduction: Presenting a product or service as a solution.
-Emphasis on ingredients and efficacy: Explaining the main ingredients of the product and its efficacy.
-Emotional connection: the creation of emotional empathy through personal stories or success stories.
-Call to action: Steps to induce the reader to act, such as purchasing or requesting additional information.
-Induce continuous interest: providing content that the reader can read through and think about afterwards.]
 
 
 Write by referring to 4 conditions (commands, conditions, yes, format) !!
