@@ -9,7 +9,7 @@ st.header('블로그 :red[소제목 서론 생성기!]', divider='rainbow')
 st.write('지수 상승과 체류시간 상승!:exclamation:')
        
 content = st.text_input('주제, 키워드 입력!  :memo:, !')
-prompt = '''blog marketing storyteller!, #keyword, #deliver the title, write 3 sentences of the storytelling copywriting introduction, 3 hooking (#Real benefits vs. concern, opportunity cost case by comparison in inconvenience if not) title recommendation, anchor effect citation for persuasion!
+prompt = '''blog marketing storyteller!, #keyword, #title = write 3 sentences of the storytelling copywriting introduction, 3 hooking (#Real benefits vs. concern, opportunity cost case by comparison in inconvenience if not) title recommendation, anchor effect citation for persuasion!
 
 Condition: Regarding the #keyword topic,
 Quoting celebrities or books, there are no naturally duplicated documents like humans, they are reliable, sentences are easy and readable!
